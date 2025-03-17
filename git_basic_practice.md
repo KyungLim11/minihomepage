@@ -30,13 +30,13 @@ _예를 들어,_ 다음과 같은 상황에서 유용합니다:
 
 ---
 
-1. **Git 저장소 초기화**
+### 1. Git 저장소 초기화
 
 `git init`
 
 - 새로운 Git 저장소를 초기화합니다.
 
-2. **파일 추가 및 커밋**
+### 2. 파일 추가 및 커밋
 
 ```
 git add <파일명>
@@ -60,8 +60,7 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
    git push origin main
    ```
 
-Git 로고
-(URL: https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ---
 
@@ -69,7 +68,7 @@ Git 로고
 
 ---
 
-- Git에 대해 더 알고 싶다면, Git 공식 문서(https://git-scm.com/doc)를 확인하세요.
-- GitHub 사용법에 대한 자세한 정보는 GitHub Docs(https://docs.github.com/en)에서 찾아볼 수 있습니다.
+- Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
+- GitHub 사용법에 대한 자세한 정보는 [GitHub Docs](https://docs.github.com/en)에서 찾아볼 수 있습니다.
 
 ---
