@@ -6,9 +6,10 @@
 
 ---
 
-- Git이란?
-- Git 기본 명령어 -브랜치와 병합
-- GitHub 사용 -추가 리소스
+- [Git이란?](https://images.app.goo.gl/xxgZqFZ1jZbCokg28)
+- [Git 기본 명령어: 브랜치와 병합](https://images.app.goo.gl/xxgZqFZ1jZbCokg28])
+- [GitHub 사용](https://images.app.goo.gl/xxgZqFZ1jZbCokg28)
+- [추가 리소스](https://images.app.goo.gl/xxgZqFZ1jZbCokg28)
 
 ---
 
